@@ -6,7 +6,6 @@ import os
 import logging
 from datetime import datetime, timedelta
 
-# from energykmdag.utils import Constants
 from dagcontext.airflowutil.varloader import AirflowVarialbeLoader
 from dagcontext.configurations.constants import Constants
 from dagcontext.configurations.env_config import EnvironmentConfiguration
